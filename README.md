@@ -67,7 +67,7 @@
     </div>
     <div class="about">
       <h2>About Me</h2>
-      <img src="DSC_0975.jpg" alt="Profile Photo">
+      <img src="IMG_20250908_203956.jpg" alt="Profile Photo">
       <p>I am a student enthusiastic about technology and design. I love building interactive,
         user-friendly web applications and exploring new tools in the tech world.</p>
     </div>
